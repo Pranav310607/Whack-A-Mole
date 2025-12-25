@@ -28,9 +28,9 @@ In this console-based version, Moles, Bombs, and BonusMoles appear randomly on a
 - **Serializable data storage** for persistent scores  
 
 ## Example Gameplay
-- Whack **Moles** → +100 points  
-- Avoid **Bombs** → −500 points  
-- Catch **BonusMoles** → +1000 points  
+- Whack **Moles**  
+- Avoid **Bombs**    
+- Catch **BonusMoles** 
 
 ## Conclusion
 This project showcases essential Java programming skills, integrating **OOP design**, **multithreading**, **exception handling**, and **data management** into a compact, interactive game.
